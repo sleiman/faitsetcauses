@@ -1,0 +1,27 @@
+��V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:11219;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2014-03-09 12:37:17";s:13:"post_date_gmt";s:19:"2014-03-09 17:37:17";s:12:"post_content";s:4491:"<p style="text-align: justify;"><b>ANNIE-CLAUDE TRUDEAU - En octobre 2013, Gabriel Roy a publié sur son blogue le texte <i>Shotgun</i></b> <b>décrivant une relation sexuelle dégradante avec Mariloup Wolfe. La comédienne poursuit aujourd’hui le blogueur en diffamation, atteinte à la réputation et à l’image et demande des dommages de près de 300,000 dollars.</b></p>
+<p style="text-align: center;"><a href="http://www.faitsetcauses.com/wp-content/uploads/2014/03/GabRoy_PLD_20110805_034.1000.jpg"><img class="aligncenter  wp-image-11221" alt="Sans titre ni commentaire" src="http://www.faitsetcauses.com/wp-content/uploads/2014/03/GabRoy_PLD_20110805_034.1000.jpg" width="480" height="318" /></a></p>
+<p style="text-align: center;"><strong>Crédit-photo : Pierre-Luc Daoust</strong></p>
+<p style="text-align: justify;"><b></b><b>Qu’est-ce que la diffamation ?</b></p>
+<p style="text-align: justify;">Selon l’auteur de l’ouvrage <i>La presse et la diffamation</i>, Nicole Vallières, la diffamation se définit comme suit :</p>
+
+<blockquote>
+<p style="text-align: justify;">« La communication de propos ou d’écrits qui font perdre l’estime ou la considération de quelqu’un ou qui, encore, suscitent à son égard des sentiments défavorables ou désagréables. »</p>
+</blockquote>
+<p style="text-align: justify;">En d’autres mots, la diffamation est une atteinte à la réputation d’une personne physique ou morale, car elle sème envers cette personne, dans l’esprit du citoyen ordinaire et de la société en général, de la déconsidération.</p>
+<p style="text-align: justify;">La liberté d’expression est limitée par le droit au respect de la vie privée, le droit à l’image, le droit à la réputation et à la sécurité.  La liberté d’expression n’est donc pas absolue et ce droit fondamental cesse lorsqu’il entre en conflit avec le(s) droit(s) d’une autre personne.</p>
+<p style="text-align: justify;"><b>Comment faire la preuve de diffamation ?</b></p>
+<p style="text-align: justify;">La diffamation est de responsabilité civile. Le poursuivant doit démontrer par prépondérance de preuve le préjudice, la faute et le lien de causalité entre les deux.</p>
+<p style="text-align: justify;">La diffamation peut être de mauvaise foi ou simplement négligente. Selon la Cour supérieure dans l’affaire <i>Beaudoin c. La Presse Ltée : </i></p>
+
+<blockquote>
+<p style="text-align: justify;">« les deux conduites constituent une faute civile, donnent droit à réparation, sans qu’il existe de différence entre elles sur le plan du droit.»</p>
+</blockquote>
+<p style="text-align: justify;">Il faut se demander si le citoyen ordinaire estimerait que les propos tenus ont déconsidéré la réputation de la personne.</p>
+<p style="text-align: justify;"><b>Combien de temps pour poursuivre ?</b></p>
+<p style="text-align: justify;">L'action fondée sur une atteinte à la réputation doit se faire au plus tard 1 an à compter du jour de la connaissance de l'acte diffamatoire.</p>
+<p style="text-align: justify;"><b>Quelle réparation peut-on espérer ? </b></p>
+<p style="text-align: justify;">La personne victime de diffamation peut demander des dommages matériels, moraux et punitifs.</p>
+<p style="text-align: justify;">Les dommages matériels sont les pertes financières liées à l'atteinte. Elles peuvent s'évaluer, pour une entreprise, par la perte de profits et pour une personne, par le coût des frais médicaux.</p>
+<p style="text-align: justify;">Les dommages moraux visent à compenser l’atteinte à la réputation et réparer le préjudice subi par la personne visée due à l’humiliation, le mépris et le ridicule. Ces dommages s’établissent selon plusieurs critères, dont notamment la gravité de l’acte diffamatoire, sa portée, la contribution de la victime par sa propre attitude et sa diffusion publique. Le préjudice moral demeure difficile à évaluer.</p>
+<p style="text-align: justify;">En matière de réparation, il n’y a pas de plafond pour le préjudice moral à la suite d’une atteinte à la réputation, mais les sommes dépassent rarement les dizaines de milliers de dollars au Québec.</p>
+<p style="text-align: justify;">Par ailleurs, pour obtenir des dommages punitifs, le demandeur doit démontrer que l’atteinte fautive était intentionnelle. L’auteur de l’atteinte doit avoir voulu les conséquences de son comportement.</p>";s:10:"post_title";s:61:"Gabriel Roy et Mariloup Wolfe : les limites de la diffamation";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:59:"gabriel-roy-et-mariloup-wolfe-les-limites-de-la-diffamation";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2014-03-09 21:05:44";s:17:"post_modified_gmt";s:19:"2014-03-10 02:05:44";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:37:"http://www.faitsetcauses.com/?p=11219";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

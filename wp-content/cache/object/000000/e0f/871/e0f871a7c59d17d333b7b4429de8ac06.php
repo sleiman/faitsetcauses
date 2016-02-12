@@ -1,0 +1,33 @@
+��V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:5:"12752";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2015-10-09 14:33:55";s:13:"post_date_gmt";s:19:"2015-10-09 19:33:55";s:12:"post_content";s:5768:"<p style="text-align: justify;"><b>FRANCIS LUSSIER — La construction d’une nouvelle chute de neige nécessite la purge d’un intercepteur de 30 kilomètres. Pour mener à terme ce projet, la Ville devra procéder à un déversement d’eaux usées dans le fleuve St-Laurent à partir du 18 octobre 2015, sur une période de sept jours. La Ville de Montréal a obtenu l’autorisation de Québec, mais attend toujours celle d’Environnement Canada. </b></p>
+<p style="text-align: center;"><a href="http://www.faitsetcauses.com/wp-content/uploads/2013/03/Hotel-de-ville-Mtl-Bixi_PLD_20121105_032.1000-1.jpg"><img class="aligncenter  wp-image-7469" style="width: 490px; height: 336px;" alt="Hôtel de ville de Montréal" src="http://www.faitsetcauses.com/wp-content/uploads/2013/03/Hotel-de-ville-Mtl-Bixi_PLD_20121105_032.1000-1.jpg" width="1000" height="664" /></a></p>
+<p style="text-align: center;"><strong>Photo : Pierre-Luc Daoust</strong></p>
+<p style="text-align: justify;"><b>Le rapport d’analyse </b></p>
+<p style="text-align: justify;">Selon le ministre de l’Environnement du Québec, David Heurtel, le déversement de quelques 8 milliards de litres d’eaux usées, tel que présenté par la Ville de Montréal est « déplorable, mais inévitable pour pouvoir effectuer les travaux. »</p>
+<p style="text-align: justify;">Un <a href="http://www.scribd.com/doc/283470563/Le-Rapport-d-Analyse-Certificat-d-Autorisation-Article-22">rapport d’analyse</a> préparé pour la Ville de Montréal prévoit d’ailleurs que ce projet est conforme aux exigences légales imposées par la <a href="http://www2.publicationsduquebec.gouv.qc.ca/dynamicSearch/telecharge.php?type=2&amp;file=/Q_2/Q2.htm">Loi sur la qualité de l’environnement</a><i>, </i>le <a href="http://www2.publicationsduquebec.gouv.qc.ca/dynamicSearch/telecharge.php?type=3&amp;file=/Q_2/Q2R31.HTM">Règlement sur les lieux d’élimination de neige</a><i> </i>et le <a href="http://www2.publicationsduquebec.gouv.qc.ca/dynamicSearch/telecharge.php?type=2&amp;file=//Q_2/Q2R34_1.htm">Règlement sur les ouvrages municipaux d’assainissement des eaux usées</a><i>. </i></p>
+<p style="text-align: justify;"><b>Les eaux usées </b></p>
+<p style="text-align: justify;">Les eaux usées qui seront déversées dans le fleuve St-Laurent proviendront notamment des résidences domestiques, des industries et des établissements publics (incluant les hôpitaux). <a href="http://ici.radio-canada.ca/regions/Montreal/2015/09/30/004-eaux-usees-montreal-scientifiques.shtml">Ces eaux contiennent plusieurs substances qui pourraient potentiellement avoir un effet néfaste sur la faune et la flore du fleuve St-Laurent, ainsi que pour les résidents des villes riveraines en aval de Montréal. </a></p>
+<p style="text-align: justify;">La <a href="http://laws-lois.justice.gc.ca/fra/lois/F-14/TexteComplet.html">Loi sur les pêches</a> donne une définition des substances nocives, soit « toute substance qui altèrerait ou contribuerait à altérer la qualité de l’eau au point de la rendre nocive pour le poisson ou l’utilisation par l’homme du poisson qui y vit. »</p>
+<p style="text-align: justify;">Le <a href="http://laws-lois.justice.gc.ca/fra/reglements/DORS-2012-139/page-1.html#h-1">Règlement sur les effluents des systèmes d’assainissement des eaux usées</a> donne également une définition des eaux usées, incluant entre autres « des eaux souillées d’appareils sanitaires contenant des matières fécales d’origine humaine ainsi que des eaux grises et de ruissellement. »</p>
+<b>Les exigences règlementaires </b>
+
+Selon le porte-parole d’Environnement Canada, Mark Johnson, <a href="http://ici.radio-canada.ca/regions/montreal/2015/10/02/002-eaux-usees-deversement-fleuve-montreal-coderre-environnement.shtml">le déversement d’eaux usées prévu dans le projet de la Ville de Montréal va à l’encontre de ce qui est édicté dans la <i>Loi sur les pêches,</i> ainsi que dans le <i>Règlement sur les effluents des systèmes d’assainissement des eaux usées</i></a>.
+
+La <i>Loi sur les pêches</i> indique qu’il est « <a href="http://laws-lois.justice.gc.ca/fra/lois/F-14/TexteComplet.html">interdit d’exercer une activité entrainant des dommages sérieux à tout poisson visé par une pêche commerciale, récréative ou autochtone</a> »
+
+Cette même Loi indique également qu’une telle activité est possible si elle est approuvée par le Ministre après avoir obtenu les plans, devis et analyse pour déterminer l’ampleur du dommage et la possibilité de limiter celui-ci.
+
+Le <i>Règlement sur les effluents des systèmes d’assainissement des eaux usées </i>fourni les <a href="http://laws-lois.justice.gc.ca/fra/reglements/DORS-2012-139/page-23.html#docCont">paramètres scientifiques des différentes concentrations permises dans le rejet des eaux usées</a>. Ce règlement exige également que « <a href="http://laws-lois.justice.gc.ca/fra/reglements/DORS-2012-139/page-23.html#docCont">toute détermination requise au niveau de la composition nocive des eaux usées soit réalisée par des laboratoires accrédités</a>. »
+
+Il est possible d’obtenir une <a href="http://laws-lois.justice.gc.ca/fra/reglements/DORS-2012-139/page-23.html#docCont">autorisation transitoire afin de déverser un effluent contenant des substances nocives en concentration supérieure aux limites établies</a>, délivrée par un agent d’autorisation qui, selon ce règlement, <a href="http://laws-lois.justice.gc.ca/fra/reglements/DORS-2012-139/page-23.html#docCont">inclus le ministère de l’Environnement</a>.
+<div>
+
+<hr align="left" size="1" width="33%" />
+
+<div>
+<div>
+
+&nbsp;
+
+</div>
+</div>
+</div>";s:10:"post_title";s:71:"Déversement des eaux usées dans le fleuve St-Laurent : Qu'en est-il ?";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:64:"deversement-des-eaux-usees-dans-le-fleuve-st-laurent-quen-est-il";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2015-10-12 14:54:55";s:17:"post_modified_gmt";s:19:"2015-10-12 19:54:55";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:37:"http://www.faitsetcauses.com/?p=12752";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

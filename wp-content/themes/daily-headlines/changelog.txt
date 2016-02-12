@@ -1,0 +1,13 @@
+DAILY HEADLINES THEME (www.proudthemes.com)
+
+CHANGELOG:
+
+September 16th, 2010
+- fixed the bug with wrong link in the Proud: 3 Categories widget (includes/widgets.php)
+
+August 16th, 2010
+- 1.0.2 version
+- fixed the tabs.php and posts_featured.php bugs
+
+July 10th, 2010
+- 1.0 version

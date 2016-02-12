@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FAITS ET CAUSES &#187; lassonde</title>
+	<atom:link href="http://www.faitsetcauses.com/tag/lassonde/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.faitsetcauses.com</link>
+	<description>Une perspective juridique sur l&#039;actualité</description>
+	<lastBuildDate>Thu, 11 Feb 2016 15:40:46 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.13</generator>
+	<item>
+		<title>OASIS et les poursuites abusives : pas de remède sans preuve</title>
+		<link>http://www.faitsetcauses.com/2012/04/12/oasis-et-les-poursuites-abusives-pas-de-remede-sans-preuve/</link>
+		<comments>http://www.faitsetcauses.com/2012/04/12/oasis-et-les-poursuites-abusives-pas-de-remede-sans-preuve/#comments</comments>
+		<pubDate>Thu, 12 Apr 2012 14:51:52 +0000</pubDate>
+		<dc:creator><![CDATA[Faits et Causes]]></dc:creator>
+				<category><![CDATA[Judiciaire]]></category>
+		<category><![CDATA[Propriété intellectuelle]]></category>
+		<category><![CDATA[lassonde]]></category>
+		<category><![CDATA[oasis]]></category>
+		<category><![CDATA[olivia]]></category>
+
+		<guid isPermaLink="false">http://www.faitsetcauses.com/?p=3172</guid>
+		<description><![CDATA[FC- Les grands médias ont rapporté en début de semaine la victoire de l’offensive menée sur les réseaux sociaux contre A. LASSONDE INC., une entreprise de Rougemont à qui la Cour d’appel du Québec avait donné raison dans une injonction contre la société L’OASIS D’OLIVIA INC., qui fabrique du savon à base d’huile d’olive. Pourquoi [&#8230;]]]></description>
+		<wfw:commentRss>http://www.faitsetcauses.com/2012/04/12/oasis-et-les-poursuites-abusives-pas-de-remede-sans-preuve/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching using disk
+Object Caching 476/489 objects using disk
+
+ Served from: www.faitsetcauses.com @ 2016-02-11 14:59:44 by W3 Total Cache -->

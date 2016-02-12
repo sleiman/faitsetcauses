@@ -1,0 +1,37 @@
+�V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:5:"12777";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2015-10-12 11:58:23";s:13:"post_date_gmt";s:19:"2015-10-12 16:58:23";s:12:"post_content";s:6642:"<p style="text-align: justify;"><b>JULIEN AYOTTE - Dans le cadre des élections fédérales, les citoyens canadiens sont appelés à voter par anticipation jusqu’au 12 octobre 2015, puis, le 19 octobre 2015, jour officiel du scrutin. </b></p>
+<p style="text-align: justify;">La <a href="http://laws-lois.justice.gc.ca/fra/Const/page-15.html"><i>Charte canadienne des droits et libertés</i></a> de 1982 protège les droits démocratiques des citoyens canadiens. D’après la Charte, tous les citoyens peuvent voter et tous sont éligibles pour se présenter comme candidat aux élections législatives, sous réserve des exceptions prévues dans la <i>Loi électorale</i>.</p>
+<p style="text-align: center;"><a href="http://www.faitsetcauses.com/wp-content/uploads/2012/07/scrutin.png"><img class="aligncenter  wp-image-3683" style="width: 423px; height: 263px;" alt="scrutin" src="http://www.faitsetcauses.com/wp-content/uploads/2012/07/scrutin.png" width="544" height="346" /></a></p>
+<p style="text-align: justify;"><b>La Loi électorale canadienne </b></p>
+<p style="text-align: justify;">C’est la <a href="http://laws-lois.justice.gc.ca/fra/lois/E-2.01/"><i>Loi électorale du Canada</i></a> qui encadre les élections fédérales. Elle aborde les droits électoraux, les normes relatives aux employés qui s’occupent des élections et toutes les modalités qui entourent la tenue d’une élection.</p>
+<p style="text-align: justify;">La <i>Loi électorale</i> prévoit les moyens à prendre et les peines en cas d’infraction à la loi. Le cas échéant, c’est le <a href="https://www.cef-cce.gc.ca/">Commissaire aux élections fédérales</a> qui s’occupe de veiller à l’exécution de la <i>Loi</i>.</p>
+<p style="text-align: justify;"><b>Le Directeur général des élections</b></p>
+<p style="text-align: justify;">La <i>Loi électorale </i>crée le poste de directeur général des élections, nommé à titre inamovible pour un mandat unique de dix ans par la Chambre des communes. Le directeur général des élections travaille au Bureau du directeur général des élections, communément appelé <a href="http://www.elections.ca/">Élections Canada</a>.</p>
+<p style="text-align: justify;">Le directeur doit superviser les opérations électorales et le travail de ses fonctionnaires afin d’appliquer la <i>Loi électorale</i>. Il est également en charge de la diffusion des messages publicitaires qui informent les électeurs de l’exercice de leurs droits démocratiques.</p>
+<p style="text-align: justify;">Pour l’aider dans sa tâche, le directeur général des élections est assisté de fonctionnaires électoraux. Parmi ceux-ci, il nomme un directeur du scrutin pour chaque circonscription.</p>
+<p style="text-align: justify;"><b>Les critères d’éligibilité</b></p>
+<p style="text-align: justify;">D’après la <i>Loi électorale</i>, toute personne qui, le jour du scrutin, est citoyen canadien et a 18 ans est dite habile à voter. Cela veut dire qu’elle a la qualité d’électeur et qu’elle pourra utiliser son droit de vote. Il faut se référer à la <a href="http://laws-lois.justice.gc.ca/fra/lois/C-29/page-2.html#h-3"><i>Loi sur la citoyenneté</i></a><i> </i>pour savoir qui possède le statut de citoyen du Canada.</p>
+<p style="text-align: justify;">En 2002, l’article de la <i>Loi électorale</i> qui rendait inhabile à voter toute personne incarcérée dans un établissement correctionnel et qui y purgeait une peine de deux ans a été <a href="http://scc-csc.lexum.com/scc-csc/scc-csc/fr/item/2010/index.do">invalidée</a> par la Cour suprême du Canada. La Cour était divisée sur cette question. Cinq juges étaient contre la disposition et 4 juges l’auraient maintenue.</p>
+<p style="text-align: justify;">Certaines règles spéciales encadrent aussi les membres des Forces canadiennes et les citoyens incarcérés qui sont dits « habiles » à voter.</p>
+<p style="text-align: justify;"><b>Le vote par anticipation</b></p>
+<p style="text-align: justify;">Les élections générales ont généralement lieu le troisième lundi d’octobre de la quatrième année civile qui suit le jour du scrutin de la dernière élection générale.</p>
+<p style="text-align: justify;">La plupart des citoyens ont reçu un avis de confirmation d’inscription. Cet avis contient les dates, heures de vote et emplacements des bureaux de vote par anticipation et d’autres détails concernant les modalités du vote.</p>
+<p style="text-align: justify;">C’est le travail du directeur de scrutin d’établir les districts de vote par anticipation. Chaque district comporte un bureau de vote où les électeurs peuvent se rendre. Chaque bureau devra fournir, sauf exception, un accès de plain-pied afin de garantir l’accessibilité à tous.</p>
+<p style="text-align: justify;">Les bureaux de vote sont ouverts de 12h à 20h, les vendredi, samedi, dimanche et lundi précédant le jour du scrutin.</p>
+<p style="text-align: justify;"><b>Le scrutateur et le greffier du scrutin</b></p>
+<p style="text-align: justify;">Chaque électeur inscrit sur la liste électorale pourra voter après avoir confirmé <a href="http://www.elections.ca/content2.aspx?section=id&amp;document=index&amp;lang=f">son identité et sa résidence</a>. Pour un électeur qui n’est pas sur la liste électorale, il est possible de s’inscrire sur place, en personne, auprès du scrutateur.</p>
+<p style="text-align: justify;">Le scrutateur et le greffier du scrutin sont des employés rémunérés qui sont choisis dans la circonscription du bureau de vote. Le scrutateur veille à l’aménagement du bureau de vote et aux procédures qui entourent le scrutin, jusqu’à ce que les votes soient remis au directeur du scrutin de sa circonscription.</p>
+<p style="text-align: justify;">Le greffier du scrutin travaille avec le scrutateur dans les procédures du scrutin, comme de s’assurer que l’électeur soit admis à voter. Il s’occupe aussi, avec le scrutateur, des procédures spéciales de vote. Par exemple, il peut aider un électeur qui a une limitation fonctionnelle ou qui ne peut lire à voter.</p>
+<p style="text-align: justify;">Il est aussi possible de <a href="http://www.elections.ca/content2.aspx?section=vote&amp;document=index&amp;lang=f#mail">voter par la poste</a> et de voter dans l’un des <a href="http://www.elections.ca/content2.aspx?section=vote&amp;document=index&amp;lang=f#rooffice">400 bureaux d’Élections Canada</a>.</p>
+
+<div>
+
+<hr align="left" size="1" width="33%" />
+
+<div>
+<div>
+
+&nbsp;
+
+</div>
+</div>
+</div>";s:10:"post_title";s:49:"Que savez-vous de l'organisation des élections ?";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:45:"que-savez-vous-de-lorganisation-des-elections";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2015-10-12 11:58:23";s:17:"post_modified_gmt";s:19:"2015-10-12 16:58:23";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:37:"http://www.faitsetcauses.com/?p=12777";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

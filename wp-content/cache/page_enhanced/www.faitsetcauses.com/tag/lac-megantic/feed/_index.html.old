@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FAITS ET CAUSES &#187; Lac-Mégantic</title>
+	<atom:link href="http://www.faitsetcauses.com/tag/lac-megantic/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.faitsetcauses.com</link>
+	<description>Une perspective juridique sur l&#039;actualité</description>
+	<lastBuildDate>Thu, 11 Feb 2016 15:40:46 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.13</generator>
+	<item>
+		<title>Lac-Mégantic &#8211; Le rôle du coroner</title>
+		<link>http://www.faitsetcauses.com/2014/10/09/lac-megantic-le-role-du-coroner/</link>
+		<comments>http://www.faitsetcauses.com/2014/10/09/lac-megantic-le-role-du-coroner/#comments</comments>
+		<pubDate>Thu, 09 Oct 2014 13:24:29 +0000</pubDate>
+		<dc:creator><![CDATA[Redaction]]></dc:creator>
+				<category><![CDATA[Actualité]]></category>
+		<category><![CDATA[Législatif]]></category>
+		<category><![CDATA[coroner]]></category>
+		<category><![CDATA[décès]]></category>
+		<category><![CDATA[enquête]]></category>
+		<category><![CDATA[Lac-Mégantic]]></category>
+
+		<guid isPermaLink="false">http://www.faitsetcauses.com/?p=12114</guid>
+		<description><![CDATA[ALEXANDRE CSUZDI-VALLÉE – Le 6 juillet 2013, un déraillement de train suivi d’une explosion fait 47 morts dans la petite municipalité de Lac-Mégantic. L’ampleur de la tragédie secoue le Québec, et bien des questions sont soulevées sur les causes du drame. Le coroner Martin Clavet est mandaté pour faire la lumière sur les événements. Quel est [&#8230;]]]></description>
+		<wfw:commentRss>http://www.faitsetcauses.com/2014/10/09/lac-megantic-le-role-du-coroner/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>La Loi d’exception pour Lac-Mégantic</title>
+		<link>http://www.faitsetcauses.com/2013/09/23/la-loi-dexception-pour-lac-megantic/</link>
+		<comments>http://www.faitsetcauses.com/2013/09/23/la-loi-dexception-pour-lac-megantic/#comments</comments>
+		<pubDate>Mon, 23 Sep 2013 17:27:19 +0000</pubDate>
+		<dc:creator><![CDATA[Faits et Causes]]></dc:creator>
+				<category><![CDATA[Actualité]]></category>
+		<category><![CDATA[Droit Municipal]]></category>
+		<category><![CDATA[Élections]]></category>
+		<category><![CDATA[Législatif]]></category>
+		<category><![CDATA[Législatif (Québec)]]></category>
+		<category><![CDATA[élections]]></category>
+		<category><![CDATA[Lac-Mégantic]]></category>
+		<category><![CDATA[municipalité]]></category>
+
+		<guid isPermaLink="false">http://www.faitsetcauses.com/?p=9914</guid>
+		<description><![CDATA[FAITS ET CAUSES &#8211; La période électorale pour les élections générales municipales est ouverte depuis le 20 septembre dernier. Les citoyens de 1 103 municipalités iront aux urnes le 3 novembre 2013. Vu le sinistre ferroviaire survenu le 6 juillet dernier, le gouvernement québécois a adopté une loi pour reporter le mandat des élus du Lac Mégantic [&#8230;]]]></description>
+		<wfw:commentRss>http://www.faitsetcauses.com/2013/09/23/la-loi-dexception-pour-lac-megantic/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lac-Mégantic : qui est responsable de la décontamination?</title>
+		<link>http://www.faitsetcauses.com/2013/08/05/lac-megantic-qui-est-responsable-de-la-decontamination/</link>
+		<comments>http://www.faitsetcauses.com/2013/08/05/lac-megantic-qui-est-responsable-de-la-decontamination/#comments</comments>
+		<pubDate>Mon, 05 Aug 2013 12:30:09 +0000</pubDate>
+		<dc:creator><![CDATA[Redaction]]></dc:creator>
+				<category><![CDATA[Actualité]]></category>
+		<category><![CDATA[Législatif]]></category>
+		<category><![CDATA[déversement]]></category>
+		<category><![CDATA[environnement]]></category>
+		<category><![CDATA[Lac-Mégantic]]></category>
+		<category><![CDATA[ordonnance]]></category>
+		<category><![CDATA[pétrole]]></category>
+
+		<guid isPermaLink="false">http://www.faitsetcauses.com/?p=9416</guid>
+		<description><![CDATA[ALEXANDRE DESJARDINS* &#8211; Le gouvernement du Québec a transmis à différents acteurs impliqués dans la catastrophe de Lac-Mégantic une ordonnance de récupérer le pétrole ainsi que tous les autres contaminants qui ont été rejetés dans l’environnement. En réaction, World Fuel Services Corporation, l’entreprise propriétaire du pétrole contenu dans les wagons-citernes, a déclaré avoir de « sérieuses [&#8230;]]]></description>
+		<wfw:commentRss>http://www.faitsetcauses.com/2013/08/05/lac-megantic-qui-est-responsable-de-la-decontamination/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Les absents de la tragédie de Lac-Mégantic</title>
+		<link>http://www.faitsetcauses.com/2013/07/11/les-absents-de-la-tragedie-du-lac-megantic/</link>
+		<comments>http://www.faitsetcauses.com/2013/07/11/les-absents-de-la-tragedie-du-lac-megantic/#comments</comments>
+		<pubDate>Thu, 11 Jul 2013 14:02:14 +0000</pubDate>
+		<dc:creator><![CDATA[Redaction]]></dc:creator>
+				<category><![CDATA[Actualité]]></category>
+		<category><![CDATA[Législatif]]></category>
+		<category><![CDATA[absent]]></category>
+		<category><![CDATA[décès]]></category>
+		<category><![CDATA[Lac-Mégantic]]></category>
+		<category><![CDATA[tragédie]]></category>
+
+		<guid isPermaLink="false">http://www.faitsetcauses.com/?p=9305</guid>
+		<description><![CDATA[Près d’une semaine après l’accident tragique de Lac-Mégantic, plusieurs dizaines de personnes manquent toujours à l’appel. Juridiquement, sont-elles considérées comme décédées, ou uniquement comme absentes? Quels sont les droits de leurs proches? Photo : Pierre-Luc Daoust L’absence Selon le Code civil du Québec, une personne absente est quelqu’un qui, ayant son domicile au Québec, a [&#8230;]]]></description>
+		<wfw:commentRss>http://www.faitsetcauses.com/2013/07/11/les-absents-de-la-tragedie-du-lac-megantic/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching using disk
+Object Caching 624/841 objects using disk
+
+ Served from: www.faitsetcauses.com @ 2016-02-11 15:14:58 by W3 Total Cache -->

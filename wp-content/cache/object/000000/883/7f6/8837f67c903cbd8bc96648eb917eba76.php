@@ -1,0 +1,1 @@
+ø(½V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":11:{s:7:"term_id";i:1166;s:4:"name";s:37:"Loi sur la protection du consommateur";s:4:"slug";s:37:"loi-sur-la-protection-du-consommateur";s:10:"term_group";i:0;s:16:"term_taxonomy_id";i:1177;s:8:"taxonomy";s:8:"post_tag";s:11:"description";s:0:"";s:6:"parent";i:0;s:5:"count";i:5;s:9:"object_id";i:11327;s:6:"filter";s:3:"raw";}}

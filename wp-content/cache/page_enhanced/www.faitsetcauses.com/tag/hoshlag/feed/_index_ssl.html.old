@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FAITS ET CAUSES &#187; hoshlag</title>
+	<atom:link href="https://www.faitsetcauses.com/tag/hoshlag/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.faitsetcauses.com</link>
+	<description>Une perspective juridique sur l&#039;actualité</description>
+	<lastBuildDate>Thu, 11 Feb 2016 15:40:46 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.13</generator>
+	<item>
+		<title>Les chroniques de l’Est &#8211; 1: Les abords de la rue Wurtele</title>
+		<link>https://www.faitsetcauses.com/2014/07/27/les-chroniques-de-lest-1-les-abords-de-la-rue-wurtele/</link>
+		<comments>https://www.faitsetcauses.com/2014/07/27/les-chroniques-de-lest-1-les-abords-de-la-rue-wurtele/#comments</comments>
+		<pubDate>Sun, 27 Jul 2014 13:05:02 +0000</pubDate>
+		<dc:creator><![CDATA[Rémi Bourget]]></dc:creator>
+				<category><![CDATA[Le blogue]]></category>
+		<category><![CDATA[Rémi Bourget]]></category>
+		<category><![CDATA[embourgeoisement]]></category>
+		<category><![CDATA[gentrification]]></category>
+		<category><![CDATA[hochelaga]]></category>
+		<category><![CDATA[hoshlag]]></category>
+
+		<guid isPermaLink="false">http://www.faitsetcauses.com/?p=11792</guid>
+		<description><![CDATA[Les chroniques de l’Est &#8211; 1 Les abords de la rue Wurtele Rémi BOURGET &#8211; 26 juillet 2014 Hochelaga-Maisonneuve, Hochelaga, Hoshlag, HoMa. Autant de noms pour désigner un même quartier aux réalités multiples. C’est le quartier qui m’a servi de porte d’entrée à Montréal, en 1999. C’est le quartier où j’habite encore aujourd’hui, parmi les [&#8230;]]]></description>
+		<wfw:commentRss>https://www.faitsetcauses.com/2014/07/27/les-chroniques-de-lest-1-les-abords-de-la-rue-wurtele/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching using disk
+Object Caching 476/498 objects using disk
+
+ Served from: www.faitsetcauses.com @ 2016-02-11 15:15:28 by W3 Total Cache -->

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FAITS ET CAUSES &#187; service essentiel</title>
+	<atom:link href="http://www.faitsetcauses.com/tag/service-essentiel/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.faitsetcauses.com</link>
+	<description>Une perspective juridique sur l&#039;actualité</description>
+	<lastBuildDate>Thu, 11 Feb 2016 15:40:46 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.13</generator>
+	<item>
+		<title>La grève et les services essentiels</title>
+		<link>http://www.faitsetcauses.com/2014/11/27/la-greve-et-les-services-essentiels/</link>
+		<comments>http://www.faitsetcauses.com/2014/11/27/la-greve-et-les-services-essentiels/#comments</comments>
+		<pubDate>Thu, 27 Nov 2014 15:06:47 +0000</pubDate>
+		<dc:creator><![CDATA[Redaction]]></dc:creator>
+				<category><![CDATA[Actualité]]></category>
+		<category><![CDATA[Législatif]]></category>
+		<category><![CDATA[grève]]></category>
+		<category><![CDATA[policiers]]></category>
+		<category><![CDATA[pompiers]]></category>
+		<category><![CDATA[projet de loi 3]]></category>
+		<category><![CDATA[régimes de retraite]]></category>
+		<category><![CDATA[santé]]></category>
+		<category><![CDATA[service essentiel]]></category>
+		<category><![CDATA[services sociaux]]></category>
+
+		<guid isPermaLink="false">http://www.faitsetcauses.com/?p=12322</guid>
+		<description><![CDATA[ALEXANDRE CSUZDI-VALLÉE - Le 26 novembre a été déclaré journée du « Grand Dérangement » par la Coalition pour la libre négociation, qui s’oppose au projet de loi 3 du gouvernement québécois sur les régimes de retraites. Plus de 25 syndicats sont allés en grève pour se joindre au mouvement. Plusieurs groupes qui contestent aussi le projet de [&#8230;]]]></description>
+		<wfw:commentRss>http://www.faitsetcauses.com/2014/11/27/la-greve-et-les-services-essentiels/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching using disk
+Object Caching 454/613 objects using disk
+
+ Served from: www.faitsetcauses.com @ 2016-02-11 14:23:48 by W3 Total Cache -->

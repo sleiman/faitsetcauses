@@ -1,0 +1,1 @@
+A*½V<?php exit; ?>a:1:{s:7:"content";a:2:{s:17:"_wp_attached_file";a:1:{i:0;s:20:"2012/01/untitled.bmp";}s:23:"_wp_attachment_metadata";a:1:{i:0;s:6:"a:0:{}";}}}

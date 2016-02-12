@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FAITS ET CAUSES &#187; Rios Montt</title>
+	<atom:link href="http://www.faitsetcauses.com/tag/rios-montt/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.faitsetcauses.com</link>
+	<description>Une perspective juridique sur l&#039;actualité</description>
+	<lastBuildDate>Thu, 11 Feb 2016 15:40:46 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.13</generator>
+	<item>
+		<title>Le Guatemala fait école</title>
+		<link>http://www.faitsetcauses.com/2014/02/16/le-guatemala-fait-ecole/</link>
+		<comments>http://www.faitsetcauses.com/2014/02/16/le-guatemala-fait-ecole/#comments</comments>
+		<pubDate>Sun, 16 Feb 2014 20:40:54 +0000</pubDate>
+		<dc:creator><![CDATA[Faits et Causes]]></dc:creator>
+				<category><![CDATA[Campus]]></category>
+		<category><![CDATA[UQAM]]></category>
+		<category><![CDATA[avocat sans frontière]]></category>
+		<category><![CDATA[droits de l'homme]]></category>
+		<category><![CDATA[Guatemala]]></category>
+		<category><![CDATA[Rios Montt]]></category>
+
+		<guid isPermaLink="false">http://www.faitsetcauses.com/?p=11045</guid>
+		<description><![CDATA[FRANCISCO REINA (CAMPUS &#8211; UQAM) - Sans que cela fasse beaucoup de bruit dans nos médias, le Guatemala vit des moments historiques, non seulement pour ce pays d’Amérique centrale, mais pour tous ceux et celles qui croient dans la promotion des droits de l’homme et qui luttent jour après jour contre l’impunité. L’ex-président et ex-général Efraín [&#8230;]]]></description>
+		<wfw:commentRss>http://www.faitsetcauses.com/2014/02/16/le-guatemala-fait-ecole/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Condamnation de Ríos Montt pour génocide : Avocats sans frontières Canada était là</title>
+		<link>http://www.faitsetcauses.com/2013/05/13/condamnation-de-rios-montt-pour-genocide-avocats-sans-frontieres-canada-etait-la/</link>
+		<comments>http://www.faitsetcauses.com/2013/05/13/condamnation-de-rios-montt-pour-genocide-avocats-sans-frontieres-canada-etait-la/#comments</comments>
+		<pubDate>Mon, 13 May 2013 19:45:15 +0000</pubDate>
+		<dc:creator><![CDATA[Faits et Causes]]></dc:creator>
+				<category><![CDATA[Actualité]]></category>
+		<category><![CDATA[Droit International]]></category>
+		<category><![CDATA[ASFC]]></category>
+		<category><![CDATA[Avocats sans frontières Canada]]></category>
+		<category><![CDATA[Guatemala]]></category>
+		<category><![CDATA[Rios Montt]]></category>
+
+		<guid isPermaLink="false">http://www.faitsetcauses.com/?p=8543</guid>
+		<description><![CDATA[AVOCATS SANS FRONTIÈRES CANADA / SOPHIE BEAUDOIN* &#8211; Vendredi dernier, l’ex-chef d’État du Guatemala, le général José Efraín Ríos Montt, a été trouvé coupable d’avoir planifié et mis en œuvre une politique génocidaire qui a causé la dévastation et la mort de milliers de Mayas de l’ethnie ixil. Il est condamné à 50 ans pour génocide ainsi qu’à [&#8230;]]]></description>
+		<wfw:commentRss>http://www.faitsetcauses.com/2013/05/13/condamnation-de-rios-montt-pour-genocide-avocats-sans-frontieres-canada-etait-la/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching using disk
+Object Caching 532/556 objects using disk
+
+ Served from: www.faitsetcauses.com @ 2016-02-11 14:14:32 by W3 Total Cache -->

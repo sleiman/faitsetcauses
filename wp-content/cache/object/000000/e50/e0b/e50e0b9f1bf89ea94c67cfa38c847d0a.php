@@ -1,0 +1,1 @@
+i ½V<?php exit; ?>a:1:{s:7:"content";a:5:{s:10:"_edit_lock";a:1:{i:0;s:12:"1432649166:1";}s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:13:"_thumbnail_id";a:1:{i:0;s:4:"3596";}s:14:"_wpas_done_all";a:1:{i:0;s:1:"1";}s:19:"_post_restored_from";a:1:{i:0;s:104:"a:3:{s:20:"restored_revision_id";i:12663;s:16:"restored_by_user";i:1;s:13:"restored_time";i:1432649123;}";}}}
